@@ -5,7 +5,9 @@ Before running the software please make sure you have **nltk** package installed
 
 ##How to run:##
 Run following command in a terminal:
-				python run.py
+```bash
+$python run.py
+```
 
 ##Files:##
 **indexer.py:**
